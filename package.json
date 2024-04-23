@@ -1,0 +1,14 @@
+{
+  "name": "poyecto-json-server",
+  "version": "1.0.0",
+  "description": "armaremos un pequeño servidor de db",
+  "main": "app.js",
+  "scripts": {
+    "start": "json-server --watch db.json"
+  },
+  "author": "Fernando Nieva",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^1.0.0-alpha.23"
+  }
+}

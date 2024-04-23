@@ -1,0 +1,75 @@
+{
+  "profesores": [
+    {
+      "nombre": "sergei",
+      "apellido": "code",
+      "materias": [
+        {
+          "nombre": "Node desde Cero"
+        },
+        {
+          "nombre": "React desde Cero"
+        },
+        {
+          "nombre": "javascript desde Cero"
+        }
+      ],
+      "id": "7004"
+    },
+    {
+      "0": {
+        "nombre": "fernando",
+        "apellido": "nieva",
+        "materias": [
+          {
+            "nombre": "MMA"
+          },
+          {
+            "nombre": "ingenieria en sistemas"
+          }
+        ]
+      },
+      "id": "a9fd"
+    }
+  ],
+  "alumnos": [
+    {
+      "nombre": "maria",
+      "apellido": "Rodriguez",
+      "promedio": 8.2,
+      "id": "fe23"
+    },
+    {
+      "nombre": "alfonsina",
+      "apellido": "storni",
+      "promedio": 10,
+      "id": "9d27"
+    },
+    {
+      "id": "be60",
+      "nombre": "George",
+      "apellido": "Orwell",
+      "promedio": 10
+    }
+  ],
+  "cursos": [
+    {
+      "nombre": "Node desde Cero",
+      "duracion": 7,
+      "dificultado": "intermedia",
+      "id": "82e1"
+    },
+    {
+      "nombre": "Rect desde Cero",
+      "duracion": 9,
+      "dificultado": "intermedia",
+      "id": "c57c"
+    },
+    {
+      "nombre": "Angular desde Cero",
+      "duracion": 8,
+      "dificultado": "alta",
+      "id": "6c3c"
+    }
+  ]
+}
